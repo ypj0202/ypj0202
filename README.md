@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me: **ypj.0202@gmail.com** <br><br>
-![ypj0202's GitHub stats](https://github-readme-stats-three-rouge-17.vercel.app/api?username=ypj0202&count_private=true)
+![ypj0202's GitHub stats](https://github-readme-stats-three-rouge-17.vercel.app/api?username=ypj0202&count_private=true&theme=radical)
 ![ypj0202's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ypj0202&hide=html)
 
